@@ -121,36 +121,35 @@
 
 ## 런쳐스크린
 
-<img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%EA%B2%8C%EC%9E%84%EC%9C%BC%EB%A1%9C%EC%A0%95%ED%95%98%EC%9E%90_%EB%9F%B0%EC%B2%98%EC%8A%A4%ED%81%AC%EB%A6%B0.png" width = "200" height = "400" />
+<img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_01.png" width = "200" height = "400" />
 
 - ViewController을 LaunchScreen처럼 보이게하는 방법으로 사용해봤는데 이에대해 궁금해 하시는 분들이 조금 있어서 블로그에 정리를 해두었어요 !
 - [[CustomLaunchScreen 만들어 보자!]](https://jwlee07.github.io/2020/08/02/CustomLaunchScreen/) <- 여기 보시면 되요 !
 
 ## 메인 뷰
 
-<img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%EA%B2%8C%EC%9E%84%EC%9C%BC%EB%A1%9C%EC%A0%95%ED%95%98%EC%9E%90_1.png" width = "200" height = "400" />
+<img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_1.png" width = "200" height = "400" />
 
 
 
 ## 제비뽑기
 
-<img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%EC%A0%9C%EB%B9%84%EB%BD%91%EA%B8%B0_1.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%EC%A0%9C%EB%B9%84%EB%BD%91%EA%B8%B0_2.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%EC%A0%9C%EB%B9%84%EB%BD%91%EA%B8%B0_3.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%EC%A0%9C%EB%B9%84%EB%BD%91%EA%B8%B0_4.png" width = "200" height = "400" />
+<img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_2.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_3.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_4.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_5.png" width = "200" height = "400" />
 
 
 
 ## 폭탄돌리기 
 
-<img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%ED%8F%AD%ED%83%84%EB%8F%8C%EB%A6%AC%EA%B8%B0_1.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%ED%8F%AD%ED%83%84%EB%8F%8C%EB%A6%AC%EA%B8%B0_2.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%ED%8F%AD%ED%83%84%EB%8F%8C%EB%A6%AC%EA%B8%B0_3.png" width = "200" height = "400" />
+<img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_6.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_7.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_8.png" width = "200" height = "400" />
 
 
 
 ## 열쇠찾기
 
-<img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%EC%97%B4%EC%87%A0%EC%B0%BE%EA%B8%B0_1.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%EC%97%B4%EC%87%A0%EC%B0%BE%EA%B8%B0_2.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%EC%97%B4%EC%87%A0%EC%B0%BE%EA%B8%B0_3.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%EC%97%B4%EC%87%A0%EC%B0%BE%EA%B8%B0_5.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%EC%97%B4%EC%87%A0%EC%B0%BE%EA%B8%B0_4.png" width = "200" height = "400" />
+<img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_9.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_10.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_11.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_12.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_13.png" width = "200" height = "400" />
 
 
 
 ## 지뢰피하기
 
-<img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%EC%A7%80%EB%A2%B0%ED%94%BC%ED%95%98%EA%B8%B0_1.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%EC%A7%80%EB%A2%B0%ED%94%BC%ED%95%98%EA%B8%B0_2.png" width = "200" height = "400" />
-
+<img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_14.png" width = "200" height = "400" />    <img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_15.png" width = "200" height = "400" />
