@@ -14,7 +14,7 @@
 ## 1. AR팔레트
 
 ## 개요.
-영상을 찍어서 추억을 남길 때 AR을 활용하여 재밌는 요소를 추가할 수 있을 것 같다는 생각에 프로젝트를 시작하였습니다.
+영상을 찍어서 추억을 남길 때 AR을 활용하여 재밌는 요소를 추가할 수 있는 앱 입니다.
 
 <img src = "https://github.com/jwlee07/ARPalettePro/blob/develop/READMEResource/ARPaletteImage_1.jpeg" width = "400" height = "400" />
 
