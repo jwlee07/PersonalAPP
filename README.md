@@ -69,34 +69,46 @@
 ## 2. 게임으로 정하자
 
 ## 개요.
+실력없이 운으로만 할수 있는 간단한 미니게임 모음 입니다.
 
-예전에 팀 프로젝트로 진행하였던 미니게임 모음집을 완성하지 못한채로 끝났었습니다..  
-완성하지 못한 프로젝트는 -> [[Dadambira]](https://github.com/jwlee07/Dadambira)로 확인하시면 됩니다.  
-그래서 개인 프로젝트로 진행 해보았습니다!! 
-
-<img src = "https://github.com/jwlee07/RefactoringDadambira/blob/master/Image/%EA%B2%8C%EC%9E%84%EC%9C%BC%EB%A1%9C%EC%A0%95%ED%95%98%EC%9E%90_0.jpeg" width = "200" height = "400" />
-
-## use Library
-
-- SnapKit
-- SwiftLint
-- Alamofire
+<img src = "https://github.com/jwlee07/RefactoringDadambira/blob/develop/Image/choiceGame_0.jpeg" width = "200" height = "400" />
 
 ## Architecture
-
-- MVC
+```
+ MVC
+```
 
 ## Requirements
-
+- iOS Deployment Target
+```
+ 14.0
+```
 - Language
-    - Swift 5.0
-
+```
+ Swift 5.0
+```
 - FramWork
-    - UIKit
-    - CocoaPods
-
+```
+ UIKit
+```
 - IDE
-    - Xcode
+```
+ XCode
+```
+
+## Use Libray
+- UI
+```
+ SnapKit
+```
+- Firebase
+```
+ Firebase/Analytics
+```
+- Convention
+```
+ SwiftLint
+```
 
 ## 게임 List.
 
